@@ -9,3 +9,5 @@ print("new command")
 print("oct 2")
 
 print("hoi new things")
+
+print("lol")
