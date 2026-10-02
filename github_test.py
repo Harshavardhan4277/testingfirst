@@ -8,4 +8,4 @@ print("new command")
 
 print("oct 2")
 
-print("hoi")
+print("hoi new things")
